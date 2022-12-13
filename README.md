@@ -1,5 +1,5 @@
 # 简介
-ThinkPHP 多语言模块 RCE Poc
+ThinkPHP多语言模块RCE Poc
 
 # 声明
 此工具仅限授权安全测试使用,禁止非法攻击未授权站点
