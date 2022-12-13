@@ -60,5 +60,12 @@ python3 Thinkphp_Multilingual_Module_Rce.py -rh www.abc.com:8088
 python3 Thinkphp_Multilingual_Module_Rce.py -f url.txt -o outfile.txt
 ```
 
+# nuclei
+
+```
+nuclei.exe -u http://192.168.0.1:8088/ -t thinkphp-multilingual-module-rce.yaml -stats
+```
+
 # 详情
+
 https://mp.weixin.qq.com/s/jECbQ4KodbCrEvoCQFSosw
