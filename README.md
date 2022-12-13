@@ -1,5 +1,5 @@
 # 简介
-Python3 Poc 验证 ThinkPHP 多语言模块 RCE
+ThinkPHP 多语言模块 RCE Poc
 
 # 声明
 此工具仅限授权安全测试使用,禁止非法攻击未授权站点
